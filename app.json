@@ -1,0 +1,6 @@
+{
+	"name": "mediawiki/core",
+	"description": "Free software wiki application developed by the Wikimedia Foundation and others",
+	"repository": "https://github.com/wikimedia/mediawiki",
+	"addons": []
+}
